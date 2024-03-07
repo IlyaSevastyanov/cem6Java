@@ -1,4 +1,4 @@
-package src.SOLID.task1_SRP;
+package SOLID_Principle.task1_SRP;
 
 import java.util.Date;
 

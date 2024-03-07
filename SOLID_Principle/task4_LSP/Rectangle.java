@@ -1,4 +1,4 @@
-package src.SOLID.task4_LSP;
+package SOLID_Principle.task4_LSP;
 
 // 4) Переписать код в соответствии с Liskov Substitution Principle:
 

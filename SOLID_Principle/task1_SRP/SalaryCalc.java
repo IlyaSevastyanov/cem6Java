@@ -1,4 +1,4 @@
-package src.SOLID.task1_SRP;
+package SOLID_Principle.task1_SRP;
 
 // 1) Переписать код в соответствии с Single Responsibility Principle:
 /**

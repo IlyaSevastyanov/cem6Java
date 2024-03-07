@@ -1,4 +1,4 @@
-package src.SOLID.task2_OCP;
+package SOLID_Principle.task2_OCP;
 
 // 2) Переписать код SpeedCalculation в соответствии с Open-Closed Principle:
 /**

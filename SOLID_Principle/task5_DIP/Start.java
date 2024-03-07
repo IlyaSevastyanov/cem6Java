@@ -1,4 +1,4 @@
-package src.SOLID.task5_DIP;
+package SOLID_Principle.task5_DIP;
 
 // 5) Переписать код в соответствии с Dependency Inversion Principle:
 /**
