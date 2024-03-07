@@ -3,9 +3,9 @@
 1) Переписать код в соответствии с Single Responsibility Principle:
    public class Employee {
    private String name;
-   private domen.Date dob;
+   private Date dob;
    private int baseSalary;
-   public Employee(String name, domen.Date dob, int baseSalary) {
+   public Employee(String name, Date dob, int baseSalary) {
    this.name = name;
    this.dob = dob;
    this.baseSalary = baseSalary;
